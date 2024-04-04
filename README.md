@@ -1,8 +1,8 @@
-## Oiêê, me chamo Sarah Ribeiro ✌😊
+## Olá, me chamo Sarah Ribeiro
 
-🔸 Sou desenvolvedora backend pela {Reprogama}
+🔸 Formada na trilha backend da {Reprogama}
 
-🔸 E sou estudante de ciência da computação pela UFPB
+🔸 Interesse e busca de conhecimento em QA
 
 ### Estou estudando:
 
